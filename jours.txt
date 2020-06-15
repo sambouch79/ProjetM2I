@@ -1,1 +1,3 @@
-jours
+lundi
+mardi
+mercredi
